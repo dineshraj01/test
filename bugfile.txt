@@ -1,2 +1,2 @@
 this is a bug file
-This line is added by master 
+this line added in bug1
