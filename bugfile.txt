@@ -1,1 +1,2 @@
 this is a bug file
+this line added in bug1
